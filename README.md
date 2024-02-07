@@ -1,1 +1,1 @@
-# diamond-tech.html
+Created by Thomas Stroebel
